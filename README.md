@@ -1,14 +1,26 @@
-# NLP - Text cleaning and processing pipeline.
 
-## Text processing pipeline for NLP problems with ready-to-use functions and text classification models.
-Code file environment - Jupyter notebook
 
-Language - Python
+# 📝 NLP - Text Cleaning & Processing Pipeline  
 
-Packages - NLTK (Natural Language ToolKit) and Sklearn
+## 🚀 Overview  
+This repository provides a **ready-to-use text processing pipeline** for NLP tasks, including text classification models.  
 
-Data source - https://www.kaggle.com/team-ai/spam-text-message-classification
+### 🔧 Environment  
+- **Platform:** Jupyter Notebook  
+- **Programming Language:** Python  
 
-Data format - .csv
+### 📦 Dependencies  
+- **NLTK (Natural Language Toolkit)** – For text preprocessing  
+- **Scikit-learn (Sklearn)** – For text classification and machine learning  
 
-The functions could be directly used in any other input data format.
+### 📊 Dataset  
+- **Source:** [Kaggle - Spam Text Message Classification](https://www.kaggle.com/team-ai/spam-text-message-classification)  
+- **Format:** CSV (`.csv`)  
+
+### ⚡ Features  
+- Prebuilt functions for text cleaning  
+- Can be adapted to different data formats  
+- Optimized for text classification tasks  
+
+---  
+**Author:** Ritesh Bhaskar  
